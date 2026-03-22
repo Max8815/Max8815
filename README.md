@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Maksym! 👋
+*Business-oriented Analyst & Emerging IT Leader*
 
-<!--
-**Max8815/Max8815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Profile
+I bridge the gap between **Audit Precision** and **IT Innovation**. With 5+ years in Senior Audit, I bring a disciplined, risk-aware approach to IT Project Management and Business Analysis. Currently leveraging AI to optimize real-world business workflows.
 
-Here are some ideas to get you started:
+## 🛠️ Focus & Skills
+* **Bridge Builder:** Translating complex business requirements into technical specs (UML, BPMN 2.0).
+* **Process Specialist:** Expert in internal controls, SLA/ISO compliance, and process optimization.
+* **AI & Automation:** Exploring LLM Prompting and Local LLMs (Ollama) to drive efficiency.
+* **Management:** Agile/Scrum mindset, Resource Planning, and Stakeholder Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Tech Journey (Currently Exploring)
+* ☁️ Cloud Infrastructure & **Infrastructure as Code (Terraform)**.
+* 🐳 Containerization basics with **Docker**.
+* 📊 Deepening **BI Data Modeling** for FinTech.
+
+## 📫 Connect with me
+* https://www.linkedin.com/in/maksym-kostenko-46720a135/
+* 📍 Based in Prague, Czech Republic
